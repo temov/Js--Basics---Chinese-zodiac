@@ -45,4 +45,4 @@ function chineseZodiac(year) {
 }
 
 let result = chineseZodiac(2020)
-console.log(result)
+console.log('You Chinese Zodiac is' + ' ' + result)
